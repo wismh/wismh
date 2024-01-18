@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**NeutrinoZh/neutrinozh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I fell asleep with C++ and woke up with Rust. <br/>
+But at the same time, I still have to go to C# <br/>
+So sometimes I go to JS/TS to relax <br/>
+</br>
+I love programming because it allows you to create huge amazing systems, ⚙️ <br/>
+because together with mathematics 📏 it literally creates magic. 🌈 <br/>
+What if we add physics 🧲 and biology? 🔬. The limit is only in your imagination. 🌌 <br/>
+<br/>
+So, I just want to continue to have the opportunity to create, and develop in this area, <br/>
+so that I can create more and more amazing things ✏️
