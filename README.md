@@ -1,10 +1,10 @@
 I fell asleep with C++ and woke up with Rust. <br/>
-But at the same time, I still have to go to C# <br/>
-So sometimes I go to JS/TS to relax <br/>
+However, there are still moments when I need to dive into C#. <br/>
+Occasionally, I find solace in the realm of JS/TS.<br/>
 </br>
-I love programming because it allows you to create huge amazing systems, ⚙️ <br/>
-because together with mathematics 📏 it literally creates magic. 🌈 <br/>
-What if we add physics 🧲 and biology? 🔬. The limit is only in your imagination. 🌌 <br/>
+Programming is my passion because it allows me to craft expansive and extraordinary systems ⚙️. <br/>
+When combined with mathematics 📏, it truly feels like conjuring magic 🌈. <br/>
+Imagine what unfolds when we integrate physics 🧲 and biology 🔬. The only limit is one's imagination 🌌. <br/>
 <br/>
 So, I just want to continue to have the opportunity to create, and develop in this area, <br/>
 so that I can create more and more amazing things ✏️
