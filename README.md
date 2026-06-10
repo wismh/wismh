@@ -4,5 +4,7 @@ Imagine what unfolds when we integrate physics 🧲 and biology 🔬. The only l
 <br/>
 So, I just want to continue to have the opportunity to create, and develop in this area, <br/>
 so that I can create more and more amazing things ✏️
- 
-<img src="./profile/streak.svg" alt="GitHub Streak" />
+
+<div align="center">
+ <img src="./profile/streak.svg" alt="GitHub Streak" />
+</div>
