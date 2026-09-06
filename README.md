@@ -1,10 +1,14 @@
-Programming is my passion because it allows me to craft expansive and extraordinary systems ⚙️. <br/>
-When combined with mathematics 📏, it truly feels like conjuring magic 🌈. <br/>
-Imagine what unfolds when we integrate physics 🧲 and biology 🔬. The only limit is one's imagination 🌌. <br/>
-<br/>
-So, I just want to continue to have the opportunity to create, and develop in this area, <br/>
-so that I can create more and more amazing things ✏️
+<h5>
+  Unity Developer with a passion for game architecture, performance, and understanding what happens under the hood.
+  
+  3+ years of production experience shipping cross-platform games (PlayStation, VR, Mobile, PC). Focused on scalable game architecture, performance profiling, and low-level engine internals.
 
+  - Production: Unity (C#), Zenject/VContainer, UniTask, Netcode, Addressables, automated CI/CD pipelines (GameCI/GitHub Actions).
+  - Systems & Under the Hood: C++, Rust, memory management, cache-efficient design, toy OS & compiler experiments.
+  - Platforms: PlayStation SDK, Meta Quest / OpenXR, Steam, iOS/Android.
+
+  I design decoupled architectures that prevent technical debt, optimize memory/frame budgets on constrained hardware
+</h5>
 <div align="center">
   <hr/>
   <img src="./profile/streak.svg" alt="GitHub Streak" />
