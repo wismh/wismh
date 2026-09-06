@@ -6,6 +6,10 @@ So, I just want to continue to have the opportunity to create, and develop in th
 so that I can create more and more amazing things ✏️
 
 <div align="center">
+  <hr/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <br/>
+  <h1>My Own Games:</h1>
   <br/>
   <table>
     <tr>
@@ -19,5 +23,4 @@ so that I can create more and more amazing things ✏️
     </tr>
   </table>
   <br/>
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
