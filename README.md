@@ -98,7 +98,7 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td valign="middle" align="left">
-        Embeddable 2D C++23 game engine with ECS, asset catalogs, UI, and optional SDL3/OpenGL/audio backends.
+        A lightweight, embeddable 2D C++23 game engine featuring an Entity Component System (ECS), asset catalogs, declarative XML/CSS UI system, and a command-buffer renderer with optional SDL3, OpenGL, and audio backends.
       </td>
     </tr>
     <tr>
@@ -114,7 +114,7 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td valign="middle" align="left">
-        Tic-tac-toe on own game engine (desktop / web / Android).
+        A neon-styled Tic-Tac-Toe game featuring PvP and PvE (smart bot) modes, procedural UI, sound effects, looping soundtrack, and score tracking. Built from scratch entirely on top of the custom Wind C++23 engine.
       </td>
     </tr>
     <tr>
@@ -130,7 +130,7 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td valign="middle" align="left">
-        Q+ programming language.
+        A custom statically-typed programming language combining Rust-like syntax and ergonomics with simplicity (no ownership, lifetimes, or class inheritance). Includes a custom <code>qpc</code> compiler that transpiles directly to clean, efficient C++.
       </td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td valign="middle" align="left">
-        x86_64 64-bit Operating System with C-kernel and BIOS bootloader.
+        A hobby 64-bit (x86_64) operating system built from scratch with an MBR BIOS bootloader, freestanding C kernel, physical memory manager (PMM + HHDM), copy-on-write <code>fork</code>, virtual memory (<code>mmap</code>/<code>brk</code>), pipes, signals, and a userland shell booting in QEMU.
       </td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td valign="middle" align="left">
-        A modular cellular automata playground with an ImGui-powered interface.
+        A modular, real-time cellular automata playground built with Rust and Dear ImGui. Allows running, exploring, and visualizing various Life-like 2D automata rules (Conway's Life, Anneal, HighLife, Day &amp; Night) with dynamic parameter controls and presets.
       </td>
     </tr>
   </table>
