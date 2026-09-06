@@ -36,17 +36,6 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td align="center" width="130" valign="top">
-        <a href="https://github.com/wismh/sorcery-strife">
-          <img src="./icons/sorcery-strife.png" width="80" height="80" alt="Sorcery Strife" />
-        </a>
-        <br />
-        <sub><b>Sorcery Strife</b></sub>
-        <br />
-        <a href="https://github.com/wismh/sorcery-strife">
-          <img src="./icons/badges/github.svg" alt="GitHub" />
-        </a>
-      </td>
-      <td align="center" width="130" valign="top">
         <a href="https://assetstore.unity.com/packages/tools/utilities/toolbar-shortcuts-381082">
           <img src="./icons/toolbar-shortcuts.png" width="80" height="80" alt="Toolbar Shortcuts" />
         </a>
@@ -87,6 +76,22 @@ so that I can create more and more amazing things ✏️
   <table>
     <tr>
       <td align="center" width="130" valign="middle">
+        <a href="https://github.com/wismh/sorcery-strife">
+          <img src="./icons/sorcery-strife.png" width="80" height="80" alt="Sorcery Strife" />
+        </a>
+        <br />
+        <sub><b>Sorcery Strife</b></sub>
+        <br />
+        <a href="https://github.com/wismh/sorcery-strife">
+          <img src="./icons/badges/github.svg" alt="GitHub" />
+        </a>
+      </td>
+      <td valign="middle" align="left">
+        A top-down arena survival game featuring auto-cast spell mechanics, horde simulation, and deep item progression. Architected on Unity 6 with Entities (DOTS/ECS) for massive enemy counts, Zenject (Extenject) for dependency injection, and UniTask for asynchronous game flow.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130" valign="middle">
         <a href="https://github.com/wismh/wind-engine">
           <img src="./icons/wind-engine.png" width="80" height="80" alt="Wind Engine" />
         </a>
@@ -98,7 +103,7 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td valign="middle" align="left">
-        A lightweight, embeddable 2D C++23 game engine featuring an Entity Component System (ECS), asset catalogs, declarative XML/CSS UI system, and a command-buffer renderer with optional SDL3, OpenGL, and audio backends.
+        A lightweight, embeddable cross-platform 2D C++23 game engine running across Windows, Web (WebAssembly), and Android. Features an Entity Component System (ECS), asset catalogs, declarative XML/CSS UI system, and a command-buffer renderer with optional SDL3, OpenGL, and audio backends.
       </td>
     </tr>
     <tr>
@@ -114,7 +119,7 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td valign="middle" align="left">
-        A neon-styled Tic-Tac-Toe game featuring PvP and PvE (smart bot) modes, procedural UI, sound effects, looping soundtrack, and score tracking. Built from scratch entirely on top of the custom Wind C++23 engine.
+        A neon-styled Tic-Tac-Toe game cross-platform on Windows, Web, and Android. Features PvP and PvE (smart bot) modes, procedural UI, sound effects, looping soundtrack, and score tracking, built from scratch entirely on top of the custom Wind C++23 engine.
       </td>
     </tr>
     <tr>
