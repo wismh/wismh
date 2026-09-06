@@ -9,7 +9,7 @@ so that I can create more and more amazing things ✏️
   <hr/>
   <img src="./profile/streak.svg" alt="GitHub Streak" />
   <br/>
-  <h1>My Own Games:</h1>
+  <h1>My Own Projects:</h1>
   <br/>
   <table>
     <tr>
@@ -70,8 +70,6 @@ so that I can create more and more amazing things ✏️
       </td>
     </tr>
   </table>
-  <br/>
-  <h1>Other Projects:</h1>
   <br/>
   <table>
     <tr>
