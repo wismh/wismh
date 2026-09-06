@@ -87,7 +87,7 @@ so that I can create more and more amazing things ✏️
         </a>
       </td>
       <td valign="middle" align="left">
-        A top-down arena survival game featuring auto-cast spell mechanics, horde simulation, and deep item progression. Architected on Unity 6 with Entities (DOTS/ECS) for massive enemy counts, Zenject (Extenject) for dependency injection, and UniTask for asynchronous game flow.
+        A top-down arena horde survival game simulating thousands of on-screen enemies simultaneously. Built on Unity 6 leveraging <b>Unity DOTS/ECS (Entities)</b> for massive crowd simulations and <b>VAT (Vertex Animation Textures)</b> for ultra-efficient GPU-instanced character animations, alongside auto-cast spell mechanics, deep item progression, Zenject DI, and UniTask.
       </td>
     </tr>
     <tr>
