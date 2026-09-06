@@ -1,7 +1,7 @@
 <h5>
   Unity Developer with a passion for game architecture, performance, and understanding what happens under the hood.
   
-  3+ years of production experience shipping cross-platform games (PlayStation, VR, Mobile, PC). Focused on scalable game architecture, performance profiling, and low-level engine internals.
+  I ship cross-platform games (PlayStation, VR, Mobile, PC). Focused on scalable game architecture, performance profiling, and low-level engine internals.
 
   - Production: Unity (C#), Zenject/VContainer, UniTask, Netcode, Addressables, automated CI/CD pipelines (GameCI/GitHub Actions).
   - Systems & Under the Hood: C++, Rust, memory management, cache-efficient design, toy OS & compiler experiments.
