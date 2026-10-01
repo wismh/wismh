@@ -72,6 +72,17 @@
           <img src="./icons/badges/github.svg" alt="GitHub" />
         </a>
       </td>
+      <td align="center" width="130" valign="top">
+        <a href="https://github.com/wismh/covid19">
+          <img src="./icons/covid19.png" width="80" height="80" alt="COVID-19" />
+        </a>
+        <br />
+        <sub><b>COVID-19</b></sub>
+        <br />
+        <a href="https://github.com/wismh/covid19">
+          <img src="./icons/badges/github.svg" alt="GitHub" />
+        </a>
+      </td>
     </tr>
   </table>
   <br/>
