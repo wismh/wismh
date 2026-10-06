@@ -94,6 +94,22 @@
     </tr>
     <tr>
       <td align="center" width="130" valign="middle">
+        <a href="https://github.com/wismh/electromagnetic-field">
+          <img src="./icons/electromagnetic-field.png" width="80" height="80" alt="Electromagnetic Field" />
+        </a>
+        <br />
+        <sub><b>Electromagnetic Field</b></sub>
+        <br />
+        <a href="https://github.com/wismh/electromagnetic-field">
+          <img src="./icons/badges/github.svg" alt="GitHub" />
+        </a>
+      </td>
+      <td valign="middle" align="left">
+        An interactive 2D physics sandbox simulating electrostatics and electrodynamics, built from scratch on top of the custom Wind C++23 engine. Features real-time simulation of Coulomb and Lorentz forces (E × B drift, cyclotrons, current coils, Rutherford scattering), live vector fields, electric potential visualization, and field-line tracers across Windows, Web, and Android.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130" valign="middle">
         <a href="https://github.com/wismh/wind-engine">
           <img src="./icons/wind-engine.png" width="80" height="80" alt="Wind Engine" />
         </a>
