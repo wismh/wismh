@@ -105,7 +105,7 @@
         </a>
       </td>
       <td valign="middle" align="left">
-        An interactive 2D physics sandbox simulating electrostatics and electrodynamics, built from scratch on top of the custom Wind C++23 engine. Features real-time simulation of Coulomb and Lorentz forces (E × B drift, cyclotrons, current coils, Rutherford scattering), live vector fields, electric potential visualization, and field-line tracers across Windows, Web, and Android.
+        Built on the custom <b>Wind engine</b> (C++23), an interactive 2D physics sandbox for simulating electrostatics and magnetism. Allows placing, dragging, and configuring charges in real time to visualize Coulomb and Lorentz forces with dynamic field lines, scalar potential maps, vector grids, particle flow tracers, and built-in experiment presets.
       </td>
     </tr>
     <tr>
