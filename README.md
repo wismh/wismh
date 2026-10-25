@@ -110,6 +110,38 @@
     </tr>
     <tr>
       <td align="center" width="130" valign="middle">
+        <a href="https://github.com/wismh/image-classifier">
+          <img src="./icons/image-classifier.png" width="80" height="80" alt="Image Classifier" />
+        </a>
+        <br />
+        <sub><b>Image Classifier</b></sub>
+        <br />
+        <a href="https://github.com/wismh/image-classifier">
+          <img src="./icons/badges/github.svg" alt="GitHub" />
+        </a>
+      </td>
+      <td valign="middle" align="left">
+        Built on the custom <b>Wind engine</b> (C++23), an interactive two-class image classifier powered by a small convolutional neural network (CNN). Allows training custom models on arbitrary photo folders, with full real-time inspection into every layer: convolutional filters, feature maps, neuron activations, class-evidence heatmaps, and "dream" visualizations.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130" valign="middle">
+        <a href="https://github.com/wismh/number-recognizer">
+          <img src="./icons/number-recognizer.png" width="80" height="80" alt="Number Recognizer" />
+        </a>
+        <br />
+        <sub><b>Number Recognizer</b></sub>
+        <br />
+        <a href="https://github.com/wismh/number-recognizer">
+          <img src="./icons/badges/github.svg" alt="GitHub" />
+        </a>
+      </td>
+      <td valign="middle" align="left">
+        Built on the custom <b>Wind engine</b> (C++23), an interactive handwritten digit recognizer (MNIST). Features a 28×28 drawing canvas with live class probabilities, interactive model training with data augmentation, custom dataset creation, and full layer-by-layer inspection of individual neuron weights, biases, and activation patterns.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130" valign="middle">
         <a href="https://github.com/wismh/wind-engine">
           <img src="./icons/wind-engine.png" width="80" height="80" alt="Wind Engine" />
         </a>
