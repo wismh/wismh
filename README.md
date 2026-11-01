@@ -142,6 +142,38 @@
     </tr>
     <tr>
       <td align="center" width="130" valign="middle">
+        <a href="https://github.com/wismh/self-learning-cars">
+          <img src="./icons/self-learning-cars.png" width="80" height="80" alt="Self-Learning Cars" />
+        </a>
+        <br />
+        <sub><b>Self-Learning Cars</b></sub>
+        <br />
+        <a href="https://github.com/wismh/self-learning-cars">
+          <img src="./icons/badges/github.svg" alt="GitHub" />
+        </a>
+      </td>
+      <td valign="middle" align="left">
+        Built on the custom <b>Wind engine</b> (C++23), an interactive 2D autonomous vehicle neuroevolution simulation. Cars steered by feedforward neural networks (MLP with 7 raycast distance sensors) evolve across generations using genetic algorithms on procedurally generated Catmull-Rom spline racetracks.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130" valign="middle">
+        <a href="https://github.com/wismh/boids">
+          <img src="./icons/boids.png" width="80" height="80" alt="Boids Simulation" />
+        </a>
+        <br />
+        <sub><b>Boids</b></sub>
+        <br />
+        <a href="https://github.com/wismh/boids">
+          <img src="./icons/badges/github.svg" alt="GitHub" />
+        </a>
+      </td>
+      <td valign="middle" align="left">
+        Built on the custom <b>Wind engine</b> (C++23), an interactive autonomous flocking simulation based on Craig Reynolds' model (Separation, Alignment, Cohesion). Accelerated with a uniform spatial hash grid in the Wind ECS for real-time performance with hundreds of boids, dynamic predator evasion, interactive obstacle placement, and behavioral presets.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130" valign="middle">
         <a href="https://github.com/wismh/wind-engine">
           <img src="./icons/wind-engine.png" width="80" height="80" alt="Wind Engine" />
         </a>
